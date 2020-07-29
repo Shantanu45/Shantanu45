@@ -1,4 +1,5 @@
 ## Hi 👋 I am Shantanu Kumar
+> I'm an Engineering student
 > I ❤ Desiging and Coding
 
 <!--
