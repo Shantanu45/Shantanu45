@@ -1,8 +1,7 @@
 ## Hi 👋 I am Shantanu Kumar
 
 ### I'm an Engineering student.
-### I :heart: Desiging and Coding.
-:octocat:
+### I :heart: Desiging and Coding. :octocat:
 
 <!--
 **Shantanu45/Shantanu45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
