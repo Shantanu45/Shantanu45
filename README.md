@@ -1,5 +1,4 @@
-## Hi 👋
-# I am Shantanu Kumar
+## Hi 👋# I am Shantanu Kumar
 
 <!--
 **Shantanu45/Shantanu45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
