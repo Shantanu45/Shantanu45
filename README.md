@@ -1,6 +1,6 @@
 ## Hi 👋 I am Shantanu Kumar
-> I'm an Engineering student
-**I :heart: Desiging and Coding**
+> I'm an Engineering student.
+**I :heart: Desiging and Coding.**
 :octocat:
 
 <!--
