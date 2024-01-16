@@ -1,6 +1,6 @@
 ## Hi 👋 I am Shantanu Kumar
 
-### I'm an Engineering student in India.
+### I'm an Programmer.
 ### I :heart: Desiging and Coding. :octocat:
 
 <!--
