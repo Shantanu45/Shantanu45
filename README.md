@@ -1,6 +1,6 @@
 ## Hi 👋 I am Shantanu Kumar
 
-### I'm an Programmer.
+### I'm an Graphics Programmer.
 ### I :heart: Desiging and Coding. :octocat:
 
 <!--
