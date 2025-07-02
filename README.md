@@ -1,7 +1,7 @@
 ## Hi 👋 I am Shantanu Kumar
 
 ### I'm a Graphics Programmer.
-### I :heart: Games. :octocat:
+### I :heart: Games.
 
 <!--
 **Shantanu45/Shantanu45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
